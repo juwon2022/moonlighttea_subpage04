@@ -261,7 +261,7 @@ textarea{
 .footer_inner{width: 1320px; margin: 0 auto; padding-top: 68.5px;}
 .ft_left{float: left; width: 385px; height: 100%;}
 .f_logo{float: left; display: block; margin-right: 39px;}
-.f_text{float: right;
+.f_text{float: right; width: 220px;
         color: #ffffff; font-size: 13px; line-height: 26px; margin-top: 39.5px;}
 
 .ft_right{float: right; padding-top: 130px;}
